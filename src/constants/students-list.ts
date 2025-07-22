@@ -8,6 +8,8 @@ export const STUDENTS_LIST = [
     "2024PGP122",
     "2024PGP050",
     "2024PGP238",
+    "2024PGP338",
     "2024PGP125",
     "2024PGP384",
+    "2024PGP204",
 ]
